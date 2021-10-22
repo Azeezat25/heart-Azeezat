@@ -16,4 +16,10 @@
         . . # . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="ljK~7L(g[49U/Y~$m[[U"><value name="pause"><shadow type="timePicker" id=")~o6h5%uGmYTng~4Z{gX"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="ZjX2RAS,X{y~*N1j|%VU" x="389" y="129"/></xml>
+        `</field><next><block type="device_pause" id="ljK~7L(g[49U/Y~$m[[U"><value name="pause"><shadow type="timePicker" id=")~o6h5%uGmYTng~4Z{gX"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="MHSlBT9JNp3|5kITaDK)"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="ZjX2RAS,X{y~*N1j|%VU" x="389" y="129"/></xml>
